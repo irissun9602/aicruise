@@ -44,4 +44,5 @@ div{ text-align:center;}
 table{ width: 400px; border-collapse: collapse; margin: auto;}
 td {border :1px solid gray;}
 button {margin: 10px;}
+
 </style>
